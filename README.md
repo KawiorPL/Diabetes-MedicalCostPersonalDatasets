@@ -36,7 +36,7 @@ pip install xgboost
 jupyter notebook
 ```
 
-🧪 Requirements
+## 🧪 Requirements
 The project uses the following Python libraries:
 
 pandas
@@ -53,7 +53,7 @@ xgboost
 
 These can be installed via conda and pip as shown above.
 
-📁 Project Structure
+## 📁 Project Structure
 notebooks/ — Jupyter notebooks with full model search workflows
 
 data/ — Raw and processed datasets (if applicable)
@@ -62,7 +62,7 @@ requirements.txt — Python dependencies
 
 README.md — Project overview and setup instructions
 
-📌 Key Insights
+## 📌 Key Insights
 The Diabetes dataset showed weak feature-target relationships, with R² scores rarely exceeding 0.60.
 
 The Medical Cost dataset revealed strong dependency on smoking status, enabling R² scores above 0.87.
