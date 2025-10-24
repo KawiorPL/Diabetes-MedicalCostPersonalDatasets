@@ -21,7 +21,7 @@ To run this project locally, follow these steps:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/your-repo-name.git
+git clone [https://github.com/your-username/your-repo-name.git](https://github.com/KawiorPL/Diabetes-MedicalCostPersonalDatasets.git)
 cd your-repo-name
 
 # Create and activate a conda environment
