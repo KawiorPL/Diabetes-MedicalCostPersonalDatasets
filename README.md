@@ -21,8 +21,8 @@ To run this project locally, follow these steps:
 
 ```bash
 # Clone the repository
-git clone [https://github.com/your-username/your-repo-name.git](https://github.com/KawiorPL/Diabetes-MedicalCostPersonalDatasets.git)
-cd your-repo-name
+git clone https://github.com/KawiorPL/Diabetes-MedicalCostPersonalDatasets.git
+cd Diabetes-MedicalCostPersonalDatasets
 
 # Create and activate a conda environment
 conda create -n regression-env python=3.10
@@ -30,7 +30,7 @@ conda activate regression-env
 
 # Install required libraries
 conda install pandas numpy matplotlib seaborn scikit-learn
-pip install xgboost
+pip install requirements.txt
 
 # Launch Jupyter Notebook
 jupyter notebook
