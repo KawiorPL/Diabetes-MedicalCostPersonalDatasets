@@ -29,8 +29,7 @@ conda create -n regression-env python=3.10
 conda activate regression-env
 
 # Install required libraries
-conda install pandas numpy matplotlib seaborn scikit-learn
-pip install requirements.txt
+pip install -r requirements.txt
 
 # Launch Jupyter Notebook
 jupyter notebook
